@@ -1,0 +1,4 @@
+API Code
+api-https://api.openweathermap.org/data/2.5/onecall? longitude/latitude &exclude-hourly&appid =646824f267b86caffecIdOb16ea77f79
+
+api code=646824f2b7b86caffec1d0b16ea77f79
