@@ -13,8 +13,8 @@ Also you will get 8 day weather forecast result for your searched name. It is de
 
 Required modules:
 
-  pip install pytz 
-  pip install geopy
-  pip install timezonefinder
-  pip install requests 
+  pip install pytz, 
+  pip install geopy,
+  pip install timezonefinder,
+  pip install requests,
   pip install pillow
